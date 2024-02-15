@@ -6,8 +6,10 @@ Frontend Developer
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [k.ortiz026@gmail.com](mailto:k.ortiz026@gmail.com)
-* 🧠  I'm learning GraphQL
-* 🤝  I'm open to collaborating on Projects
+* 💻 Dedicated to building sleek, user-friendly web solutions with a focus on JavaScript frameworks like React and Vue
+* 🌱 Always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape
+* 🤝  Let's connect, collaborate, and build amazing things together!
+
 
 ### Skills
 
